@@ -33,11 +33,9 @@ const ContactLeft = () => {
             <FaFacebookF />
           </span>
           </a>
-          <a href=''>
           <span className="bannerIcon">
             <FaTwitter />
           </span>
-          </a>
           <a href='https://www.linkedin.com/in/awais-alii/'>
           <span className="bannerIcon">
             <FaLinkedinIn />
